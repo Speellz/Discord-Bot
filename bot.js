@@ -149,4 +149,4 @@ client.on("guildMemberAdd", async (member) => {
 
 //////////////TOKEN//////////////////
 
-client.login(ayarlar.token);
+client.login(process.env.TOKEN);
