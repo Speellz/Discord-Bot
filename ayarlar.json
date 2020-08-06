@@ -1,5 +1,7 @@
 {
-  "prefix": ".",
-  "sahip": "195256986995130368",
-  "token": ""
+    "token" : "AIzaSyDjXzWqiKRt8-9KTeOll_dBZSC_RH9uIFc",
+	"api" : "youtube api",
+	"adminID" : "195256986995130368",
+    "prefix" : ".",
+	"passes" : 1
 }
